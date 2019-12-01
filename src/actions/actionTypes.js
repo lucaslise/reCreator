@@ -1,0 +1,3 @@
+export const SET_VISIBLE_DFA = 'SET_VISIBLE_DFA';
+export const SET_VISIBLE_NFA = 'SET_VISIBLE_NFA';
+export const SET_AUTOMATA_VIEW = 'SET_AUTOMATA_VIEW';
