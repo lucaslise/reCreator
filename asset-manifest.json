@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reCreator/static/css/main.34de6062.chunk.css",
+    "main.js": "/reCreator/static/js/main.3dd768fd.chunk.js",
+    "main.js.map": "/reCreator/static/js/main.3dd768fd.chunk.js.map",
+    "runtime~main.js": "/reCreator/static/js/runtime~main.7c91e958.js",
+    "runtime~main.js.map": "/reCreator/static/js/runtime~main.7c91e958.js.map",
+    "static/js/2.1c47e9a6.chunk.js": "/reCreator/static/js/2.1c47e9a6.chunk.js",
+    "static/js/2.1c47e9a6.chunk.js.map": "/reCreator/static/js/2.1c47e9a6.chunk.js.map",
+    "index.html": "/reCreator/index.html",
+    "precache-manifest.94987f5cacf2686bd5f785dfe963a10b.js": "/reCreator/precache-manifest.94987f5cacf2686bd5f785dfe963a10b.js",
+    "service-worker.js": "/reCreator/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/reCreator/static/css/main.34de6062.chunk.css.map"
+  }
+}
