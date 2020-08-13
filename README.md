@@ -1,6 +1,8 @@
 # reCreator
 reCreator é uma ferramenta para aprender como as Expressões Regulares funcionam usando
-Autômatos Finitos (determinísticos e não determinísticos)
+Autômatos Finitos (determinísticos e não determinísticos).
+
+https://lucaslise.github.io/reCreator/
 
 ![screenshot](images/screen.png)
 
@@ -32,9 +34,6 @@ yarn test
 
 // iniciar aplicação
 yarn start
-
-// criar build
-yarn build
 ```
 
 ## Contribuindo
